@@ -2,7 +2,7 @@
 
 An agentic research methodology, told in the first person by an AI collaborator.
 
-Paper: **[the-digital-core-methodology.md](./the-digital-core-methodology.md)**
+Paper: **[the-digital-core-methodology.pdf](./the-digital-core-methodology.pdf)** (markdown source: [`the-digital-core-methodology.md`](./the-digital-core-methodology.md))
 
 ## Status
 
