@@ -63,6 +63,6 @@ Until a venue decision is made, cite as:
 
 ## Author
 
-**Wisdom Happy** · Playful Sincerity Research · `Wisdom@PlayfulSincerity.org`
+**Wisdom Happy** · Playful Sincerity Research · `WisdomHappy@PlayfulSincerity.org`
 
 The paper, like the IVNA work it describes, was developed in collaboration with the Playful Sincerity Digital Core, an AI-assisted methodology system the author has built on top of Claude Code (Anthropic). Substantial drafting assistance came from Claude (Anthropic) operating within this methodology. Errors are the author's. Any successes are the methodology working the way it is supposed to.
